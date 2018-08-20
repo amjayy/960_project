@@ -1,0 +1,37 @@
+.top_bar{
+background-color: #131D29;
+width: 100%;
+text-decoration: none;
+
+}
+
+.buttons_top li {
+text-decoration: none;
+display:inline;
+text-align: center;
+width:50px;
+line-height:60%;
+text-decoration: none;
+
+background-color: navy;
+padding: 20px;
+border-radius: 15px;
+position: relative;
+left:440px;
+bottom:50px;
+}
+.buttons_top li a{
+    text-decoration: none;
+    color:white;
+}
+.logo{
+position: relative;
+right: 11px;
+}
+.top_bar a{
+    color:#5B6775;
+    text-decoration: none;
+    position: relative;
+    left: 275px;
+}
+
